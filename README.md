@@ -1,6 +1,6 @@
 # Contact Form
 
->This is a responsive contact form to send Email and save data in FIREBASE Data Base.
+>This is an alternative of React Firebse Contact Form.
 
 # Technology Used:
 
